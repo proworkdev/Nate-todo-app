@@ -29,6 +29,7 @@ const Wrapper = styled.div`
   font-size: 24px;
   cursor: pointer;
   margin-right:16px
+  margin-bottom:12px
 `
 
 
